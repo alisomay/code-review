@@ -24,7 +24,7 @@ Boylece kendi github hesabınıza bu reponun bir kopyasını çıkarmış olacak
 
 ##### Çalışma biçimi ve her pull request için yapılması gerkenler
 - İlk ve öncelikli olarak bir branch oluşturmalısınız. Bunun için `git checkout -b review/<ad>_<soyad>` komutunu kullanın.
-- Kullandiginiz programlama dilinin dosyasinda bir dosya yaratin ve bu dosyayi `ad_soyad_tarih` seklinde isimlendirin. Lutfen calismanizi sadece bu dosya icinde tutun.
+- Kullandığınız programlama dilinin dosyasının içinde bir dosya yaratın ve bu dosyayı `ad_soyad_tarih` şeklinde isimlendirin. Lütfen calışmanızı sadece bu dosya icinde tutun.
 - Sonra ise çalışmaya baslayın ve lokal olarak bol bol commitlerinizi yapın. Daha hiçbir şey 
 push etmenize gerek yok.
 - İşiniz bitti ise ve review için hazırsanız branchinizi su komutu kullanarak `git push origin review/<ad>_<soyad>` forkladığınız repoya push edin.
