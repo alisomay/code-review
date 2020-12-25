@@ -29,7 +29,6 @@ push etmenize gerek yok.
 - İşiniz bitti ise ve review için hazırsanız branchinizi su komutu kullanarak `git push origin review/<ad>_<soyad>` forkladığınız repoya push edin.
 - Simdi ise bu reponun web sayfasına giderek Compare & pull request butonuna tıklayın.
 - Burada sizin için hazırladığımız şablonu doldurduktan sonra Create pull request adlı butona tıklayın.
-- Pull request linkinizi  kanalında paylaşmayı unutmayın. 
 
 Tebrikler!
 
